@@ -1,0 +1,3 @@
+create table Cities (left_c varchar(64),right_c varchar(64),lenght varchar(64))
+create table Orders(Id int primary key identity(1,1),volume int,weight int,o_begin varchar(64),o_end varchar(64))
+create table Transports(Id int primary key identity(1,1),maxVolume int,curVolume int,maxCap int ,curCap int,t_begin varchar(64),t_end varchar(64),t_cost int,t_coffiecent int)

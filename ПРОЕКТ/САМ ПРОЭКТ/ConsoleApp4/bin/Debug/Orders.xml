@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<orders>
+  <order>
+    <volume>20</volume>
+    <weight>20</weight>
+    <obeg>Астана</obeg>
+    <oend>Алматы</oend>
+  </order>
+  <order>
+    <volume>10</volume>
+    <weight>10</weight>
+    <obeg>Астана</obeg>
+    <oend>Алматы</oend>
+  </order>
+  <order>
+    <volume>10</volume>
+    <weight>10</weight>
+    <obeg>Астана</obeg>
+    <oend>Алматы</oend>
+  </order>
+  <order>
+    <volume>10</volume>
+    <weight>10</weight>
+    <obeg>Астана</obeg>
+    <oend>Алматы</oend>
+  </order>
+</orders>
